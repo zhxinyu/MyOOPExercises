@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../BinarySearchTree_compile_check.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../BinarySearchTree_public_test.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../BinarySearchTree_tests.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../BinarySearchTree_tests.exe">
+   </FileRef>
+   <FileRef
+      location = "group:../BinarySearchTree_tests.exe.dSYM">
+   </FileRef>
+   <FileRef
+      location = "group:../BinarySearchTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:../csvstream.h">
+   </FileRef>
+   <FileRef
+      location = "group:../instructor_student.out.correct">
+   </FileRef>
+   <FileRef
+      location = "group:../main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:../Map_compile_check.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Map_public_test.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Map.h">
+   </FileRef>
+   <FileRef
+      location = "group:../projects_exam.out.correct">
+   </FileRef>
+   <FileRef
+      location = "group:../sp16_projects_exam.csv">
+   </FileRef>
+   <FileRef
+      location = "group:../test_small_debug.out.correct">
+   </FileRef>
+   <FileRef
+      location = "group:../test_small.csv">
+   </FileRef>
+   <FileRef
+      location = "group:../test_small.out.correct">
+   </FileRef>
+   <FileRef
+      location = "group:../train_small.csv">
+   </FileRef>
+   <FileRef
+      location = "group:../TreePrint.h">
+   </FileRef>
+   <FileRef
+      location = "group:../unit_test_framework.h">
+   </FileRef>
+   <FileRef
+      location = "group:../w14-f15_instructor_student.csv">
+   </FileRef>
+   <FileRef
+      location = "group:../w16_instructor_student.csv">
+   </FileRef>
+   <FileRef
+      location = "group:../w16_projects_exam.csv">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
